@@ -659,7 +659,7 @@ and apply them together to a multi-table cybersecurity analytics problem.
 
 ---
 
-## ⭐ If you found this project useful
+## If you found this project useful
 
 Feel free to explore the notebook and the analysis.
 
